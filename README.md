@@ -24,10 +24,4 @@ Conception, déploiement et administration d'un serveur local auto-hébergé à 
 * **Systèmes & Services :** Windows Server (**Active Directory**, **DNS**, **DHCP**), Linux (**Ubuntu Server**), gestion des droits/permissions, **GLPI** (serveur web et gestion de parc).
 * **Réseaux & Protocoles :** Modèles **OSI** et **TCP/IP**, adressage **IPv4 / MAC**, protocoles **ARP**, **HTTP/HTTPS**, **SSH**, conception d'architectures PME sous **Cisco Packet Tracer**.
 * **Virtualisation & Conteneurs :** **Docker**, **Portainer**, environnements virtualisés.
-* **Pratique continue :** Plateformes **TryHackMe** et **OpenClassrooms** (réseaux, Linux, cybersécurité).
-
----
-
-### 📫 Me contacter
-
-* 💼 **LinkedIn :** [www.linkedin.com/in/nicolas-foury] 
+* **Pratique continue :** Plateformes **TryHackMe** et **OpenClassrooms** (réseaux, Linux, cybersécurité). 
